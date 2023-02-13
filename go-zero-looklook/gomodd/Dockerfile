@@ -1,0 +1,1 @@
+FROM lyumikael/gomodd:v1.0.0
